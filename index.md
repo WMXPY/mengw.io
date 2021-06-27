@@ -16,4 +16,5 @@ Hi, welcome to `mengw.io`, feel free to check out the following links.
 
 ## Blog Site
 
+-   [`Sudoo` Packages Case Study Blog](//sudo.mengw.io)
 -   [WMXPY’s Automated Bug Factory](//blog.mengw.io)
