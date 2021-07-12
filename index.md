@@ -21,3 +21,8 @@ Hi, welcome to `mengw.io`, feel free to check out the following links.
 
 -   [`Sudoo` Packages Blog & Case Study](//sudo.mengw.io)
 -   [WMXPY’s Automated Bug Factory](//blog.mengw.io)
+
+## Useful Links
+
+-   Amazing Links > [link.mengw.io](https://link.mengw.io)
+-   Amazing Snippets > [snippet.mengw.io](https://snippet.mengw.io)
