@@ -21,11 +21,6 @@ Hi, welcome to `mengw.io`, feel free to check out the following links.
 -   [`Brontosaurus` SSO Solution - Document](//brontosaurus.land)
 -   [`BWNL` Packages - Document](//bwnl.io)
 
-## Blog Site
-
--   [`Sudoo` Packages Blog & Case Study](//sudo.mengw.io)
--   [WMXPY’s Automated Bug Factory](//blog.mengw.io)
-
 ## Useful Links
 
 -   Amazing Links > [link.mengw.io](https://link.mengw.io)
