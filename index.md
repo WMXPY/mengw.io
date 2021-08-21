@@ -25,3 +25,4 @@ Hi, welcome to `mengw.io`, feel free to check out the following links.
 
 -   Amazing Links > [link.mengw.io](https://link.mengw.io)
 -   Amazing Snippets > [snippet.mengw.io](https://snippet.mengw.io)
+-   Discover > [discover.mengw.io](https://discover.mengw.io)
