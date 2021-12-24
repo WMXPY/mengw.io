@@ -6,7 +6,7 @@ layout: home
 # Hello World
 
 <i class="fa fa-envelope-square fa-fw"></i> [wm@mengw.io](mailto://wm@mengw.io)  
-<i class="fa fa-check-square fa-fw"></i> <https://resume.mengw.io/>  
+<!-- <i class="fa fa-check-square fa-fw"></i> <https://resume.mengw.io/>   -->
 <i class="fa fa-rss-square fa-fw"></i> <https://blog.mengw.io/>  
 <i class="fa fa-github-square fa-fw"></i> <https://github.com/wmxpy/>  
 <i class="fa fa-linkedin-square fa-fw"></i> <https://linkedin.com/in/wmxpy/>  
